@@ -39,7 +39,7 @@ def set_argument():
     parser.add_argument("--patience", type=float, default=2)
 
     parser.add_argument('--llm_name', type=str, default='gpt-4o-mini')
-    parser.add_argument('--api_key', type=str, default='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')
+    parser.add_argument('--api_key', type=str, default='<PLACE YOUR KEY HERE>')
 
     args = parser.parse_args()
     return args
