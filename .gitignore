@@ -168,7 +168,7 @@ descriptions/
 captions/
 features/
 embedding*/
-dataset/
+# dataset/
 models/
 descriptions-2/
 frames_align/

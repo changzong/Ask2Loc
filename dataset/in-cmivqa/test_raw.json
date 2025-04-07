@@ -1,0 +1,1633 @@
+[
+    {
+        "sample_id": 2704,
+        "video_id": "tMo1RcDO6mY",
+        "question": "如何找到并点按风府和风池穴",
+        "answer_start_second": 58,
+        "answer_end_second": 110
+    },
+    {
+        "sample_id": 2705,
+        "video_id": "tMo1RcDO6mY",
+        "question": "刺激完穴位后如何开始刮痧？",
+        "answer_start_second": 120,
+        "answer_end_second": 152
+    },
+    {
+        "sample_id": 2706,
+        "video_id": "YtKzL3_xUTE",
+        "question": "如何做简单的静态训练方法训练前锯肌",
+        "answer_start_second": 47,
+        "answer_end_second": 86
+    },
+    {
+        "sample_id": 2707,
+        "video_id": "YtKzL3_xUTE",
+        "question": "如何做比较难的动态训练方法训练前锯肌？",
+        "answer_start_second": 95,
+        "answer_end_second": 131
+    },
+    {
+        "sample_id": 2708,
+        "video_id": "S7BH_-AF3OY",
+        "question": "如何用食盐治疗耳鸣？",
+        "answer_start_second": 145,
+        "answer_end_second": 179
+    },
+    {
+        "sample_id": 2709,
+        "video_id": "S7BH_-AF3OY",
+        "question": "如何用双手捂住双耳改善耳鸣",
+        "answer_start_second": 195,
+        "answer_end_second": 222
+    },
+    {
+        "sample_id": 2710,
+        "video_id": "mnnGyVBAY3w",
+        "question": "如何用拇指顺着下颌线按摩疏通结节？",
+        "answer_start_second": 22,
+        "answer_end_second": 39
+    },
+    {
+        "sample_id": 2711,
+        "video_id": "D8Ce0ptgG_k",
+        "question": "如何通过感受腹部和双腿做提肛和憋尿？",
+        "answer_start_second": 148,
+        "answer_end_second": 190
+    },
+    {
+        "sample_id": 2712,
+        "video_id": "9izrdDNjSTw",
+        "question": "如何检测喷雾器是否完整并可以使用？",
+        "answer_start_second": 52,
+        "answer_end_second": 67
+    },
+    {
+        "sample_id": 2713,
+        "video_id": "9izrdDNjSTw",
+        "question": "如何将喷雾器与面罩安装？",
+        "answer_start_second": 70,
+        "answer_end_second": 87
+    },
+    {
+        "sample_id": 2714,
+        "video_id": "9izrdDNjSTw",
+        "question": "如何给孩童使用面罩式吸药？",
+        "answer_start_second": 104,
+        "answer_end_second": 134
+    },
+    {
+        "sample_id": 2715,
+        "video_id": "9izrdDNjSTw",
+        "question": "如何清洗吸药辅助器？",
+        "answer_start_second": 171,
+        "answer_end_second": 224
+    },
+    {
+        "sample_id": 2716,
+        "video_id": "xkc1D22OUzI",
+        "question": "如何做盖印章缓解下背痛？",
+        "answer_start_second": 92,
+        "answer_end_second": 99
+    },
+    {
+        "sample_id": 2717,
+        "video_id": "xkc1D22OUzI",
+        "question": "如何做下背侧伸展？",
+        "answer_start_second": 111,
+        "answer_end_second": 127
+    },
+    {
+        "sample_id": 2718,
+        "video_id": "xkc1D22OUzI",
+        "question": "如何做卷腹伸展？",
+        "answer_start_second": 166,
+        "answer_end_second": 180
+    },
+    {
+        "sample_id": 2719,
+        "video_id": "xkc1D22OUzI",
+        "question": "如何做眼镜蛇式运动伸展？",
+        "answer_start_second": 194,
+        "answer_end_second": 208
+    },
+    {
+        "sample_id": 2720,
+        "video_id": "xkc1D22OUzI",
+        "question": "如何做猫牛式伸展？",
+        "answer_start_second": 234,
+        "answer_end_second": 249
+    },
+    {
+        "sample_id": 2721,
+        "video_id": "YkPND3y7o54",
+        "question": "如何用手指或按摩球按压肩膀放松肌肉",
+        "answer_start_second": 6,
+        "answer_end_second": 38
+    },
+    {
+        "sample_id": 2722,
+        "video_id": "YX-xbqsNMXw",
+        "question": "浏览手机的合适站姿是什么？",
+        "answer_start_second": 146,
+        "answer_end_second": 156
+    },
+    {
+        "sample_id": 2723,
+        "video_id": "YX-xbqsNMXw",
+        "question": "浏览手机的合适坐姿是什么？",
+        "answer_start_second": 190,
+        "answer_end_second": 200
+    },
+    {
+        "sample_id": 2724,
+        "video_id": "YX-xbqsNMXw",
+        "question": "浏览手机的合适躺姿是什么？",
+        "answer_start_second": 232,
+        "answer_end_second": 246
+    },
+    {
+        "sample_id": 2725,
+        "video_id": "4Y68YbusyQk",
+        "question": "如何原地脚后跟跺脚改善骨质疏松？",
+        "answer_start_second": 34,
+        "answer_end_second": 47
+    },
+    {
+        "sample_id": 2726,
+        "video_id": "ExlYr3x3osQ",
+        "question": "如何做飞机降落练成蜜桃臀？",
+        "answer_start_second": 35,
+        "answer_end_second": 50
+    },
+    {
+        "sample_id": 2727,
+        "video_id": "0D0SIcjLwNA",
+        "question": "如何坐着伸直一条腿做训练改善膝关节无力？",
+        "answer_start_second": 33,
+        "answer_end_second": 51
+    },
+    {
+        "sample_id": 2728,
+        "video_id": "sSWaHCRt93c",
+        "question": "如何平躺屈膝双手放身上进行呼吸？",
+        "answer_start_second": 38,
+        "answer_end_second": 60
+    },
+    {
+        "sample_id": 2729,
+        "video_id": "sSWaHCRt93c",
+        "question": "如何做进阶的仰躺呼吸训练",
+        "answer_start_second": 64,
+        "answer_end_second": 74
+    },
+    {
+        "sample_id": 2730,
+        "video_id": "lGQcC4eIux8",
+        "question": "如何找到大鱼际和小鱼际",
+        "answer_start_second": 28,
+        "answer_end_second": 38
+    },
+    {
+        "sample_id": 2731,
+        "video_id": "lGQcC4eIux8",
+        "question": "如何摩擦手掌刺激大鱼际和小鱼际？",
+        "answer_start_second": 93,
+        "answer_end_second": 119
+    },
+    {
+        "sample_id": 2732,
+        "video_id": "qqzg5ZuVg1U",
+        "question": "如何双脚踩住弹力带，拉紧和放松弹力带做蹲起？",
+        "answer_start_second": 28,
+        "answer_end_second": 45
+    },
+    {
+        "sample_id": 2733,
+        "video_id": "4rz_wAIJvmY",
+        "question": "如何做伸展颈部运动",
+        "answer_start_second": 36,
+        "answer_end_second": 85
+    },
+    {
+        "sample_id": 2734,
+        "video_id": "4rz_wAIJvmY",
+        "question": "如何将一只手放至背部，一只手将头拉向一方伸展颈部？",
+        "answer_start_second": 101,
+        "answer_end_second": 119
+    },
+    {
+        "sample_id": 2735,
+        "video_id": "4rz_wAIJvmY",
+        "question": "如何将一只手放至腰部，一只手将头拉向一方伸展颈部？",
+        "answer_start_second": 143,
+        "answer_end_second": 150
+    },
+    {
+        "sample_id": 2736,
+        "video_id": "ahOMUvLPZbU",
+        "question": "如何找到肩前穴？",
+        "answer_start_second": 66,
+        "answer_end_second": 79
+    },
+    {
+        "sample_id": 2737,
+        "video_id": "ahOMUvLPZbU",
+        "question": "如何用两只手指按摩肩部缓解肩周炎？",
+        "answer_start_second": 80,
+        "answer_end_second": 87
+    },
+    {
+        "sample_id": 2738,
+        "video_id": "K_U7tk_RpQ4",
+        "question": "睡前平躺双手双腿如何摆放可以缓解失眠？",
+        "answer_start_second": 19,
+        "answer_end_second": 36
+    },
+    {
+        "sample_id": 2739,
+        "video_id": "Ugaa3-69l5U",
+        "question": "如何头部带动身体倾斜向下做俯卧撑？",
+        "answer_start_second": 232,
+        "answer_end_second": 259
+    },
+    {
+        "sample_id": 2740,
+        "video_id": "Ugaa3-69l5U",
+        "question": "如何做折刀俯卧撑？",
+        "answer_start_second": 274,
+        "answer_end_second": 300
+    },
+    {
+        "sample_id": 2741,
+        "video_id": "Ugaa3-69l5U",
+        "question": "如何做扭转俯卧撑？",
+        "answer_start_second": 317,
+        "answer_end_second": 344
+    },
+    {
+        "sample_id": 2742,
+        "video_id": "Ugaa3-69l5U",
+        "question": "如何做标准俯卧撑",
+        "answer_start_second": 358,
+        "answer_end_second": 390
+    },
+    {
+        "sample_id": 2743,
+        "video_id": "Ugaa3-69l5U",
+        "question": "如何做钻石俯卧撑？",
+        "answer_start_second": 398,
+        "answer_end_second": 424
+    },
+    {
+        "sample_id": 2744,
+        "video_id": "Ugaa3-69l5U",
+        "question": "如何做挺身俯卧撑？",
+        "answer_start_second": 437,
+        "answer_end_second": 471
+    },
+    {
+        "sample_id": 2745,
+        "video_id": "dL_gcUMwxkc",
+        "question": "如何借助毛巾滑动手臂伸展肩膀？",
+        "answer_start_second": 133,
+        "answer_end_second": 174
+    },
+    {
+        "sample_id": 2746,
+        "video_id": "dL_gcUMwxkc",
+        "question": "如何平躺借助棒子上举双手活动肩膀",
+        "answer_start_second": 197,
+        "answer_end_second": 224
+    },
+    {
+        "sample_id": 2747,
+        "video_id": "dL_gcUMwxkc",
+        "question": "如何增加肩部的内旋？",
+        "answer_start_second": 324,
+        "answer_end_second": 368
+    },
+    {
+        "sample_id": 2748,
+        "video_id": "dL_gcUMwxkc",
+        "question": "如何增加肩膀外展的角度？",
+        "answer_start_second": 387,
+        "answer_end_second": 406
+    },
+    {
+        "sample_id": 2749,
+        "video_id": "c03pvwKVJ9w",
+        "question": "怎么找后溪穴？",
+        "answer_start_second": 49,
+        "answer_end_second": 55
+    },
+    {
+        "sample_id": 2750,
+        "video_id": "c03pvwKVJ9w",
+        "question": "如何用手指按压后溪穴放松肩颈？",
+        "answer_start_second": 69,
+        "answer_end_second": 80
+    },
+    {
+        "sample_id": 2751,
+        "video_id": "ze14GP6APOI",
+        "question": "如何上下活动双臂并折腰训练核心？",
+        "answer_start_second": 1,
+        "answer_end_second": 7
+    },
+    {
+        "sample_id": 2752,
+        "video_id": "ze14GP6APOI",
+        "question": "如何将一侧手肘与另一侧膝盖交合训练核心",
+        "answer_start_second": 53,
+        "answer_end_second": 59
+    },
+    {
+        "sample_id": 2753,
+        "video_id": "ze14GP6APOI",
+        "question": "如何打开双臂旋转上身活动核心",
+        "answer_start_second": 67,
+        "answer_end_second": 72
+    },
+    {
+        "sample_id": 2754,
+        "video_id": "ze14GP6APOI",
+        "question": "如何挺胸抬头训练核心？",
+        "answer_start_second": 91,
+        "answer_end_second": 97
+    },
+    {
+        "sample_id": 2755,
+        "video_id": "ze14GP6APOI",
+        "question": "如何将双脚抬离地面训练核心？",
+        "answer_start_second": 119,
+        "answer_end_second": 124
+    },
+    {
+        "sample_id": 2756,
+        "video_id": "ze14GP6APOI",
+        "question": "如何双手交叉向身体斜侧运动训练核心？",
+        "answer_start_second": 149,
+        "answer_end_second": 154
+    },
+    {
+        "sample_id": 2757,
+        "video_id": "ze14GP6APOI",
+        "question": "如何交叉双臂折腰训练核心？",
+        "answer_start_second": 174,
+        "answer_end_second": 178
+    },
+    {
+        "sample_id": 2758,
+        "video_id": "ze14GP6APOI",
+        "question": "如何将身体向左右一侧倾斜训练核心？",
+        "answer_start_second": 193,
+        "answer_end_second": 198
+    },
+    {
+        "sample_id": 2759,
+        "video_id": "-alXspzUYCg",
+        "question": "如何知道一张床的承托力是否足够或者适合自己呢",
+        "answer_start_second": 72,
+        "answer_end_second": 82
+    },
+    {
+        "sample_id": 2760,
+        "video_id": "0htEBFoM-xU",
+        "question": "如何做前臂肌肉牵拉？",
+        "answer_start_second": 20,
+        "answer_end_second": 28
+    },
+    {
+        "sample_id": 2761,
+        "video_id": "eKylAiYGXnw",
+        "question": "做提肩胛肌伸展运动时双手如何操作？",
+        "answer_start_second": 34,
+        "answer_end_second": 51
+    },
+    {
+        "sample_id": 2762,
+        "video_id": "eKylAiYGXnw",
+        "question": "如何伸展斜角肌？",
+        "answer_start_second": 89,
+        "answer_end_second": 105
+    },
+    {
+        "sample_id": 2763,
+        "video_id": "eKylAiYGXnw",
+        "question": "如何展开双臂向上训练上斜方肌？",
+        "answer_start_second": 132,
+        "answer_end_second": 155
+    },
+    {
+        "sample_id": 2764,
+        "video_id": "eKylAiYGXnw",
+        "question": "如何放松枕下肌群？",
+        "answer_start_second": 179,
+        "answer_end_second": 214
+    },
+    {
+        "sample_id": 2765,
+        "video_id": "_pl32NiSCuA",
+        "question": "如何坐着用毛巾向后拉脚底舒缓足底筋膜",
+        "answer_start_second": 251,
+        "answer_end_second": 268
+    },
+    {
+        "sample_id": 2766,
+        "video_id": "_pl32NiSCuA",
+        "question": "如何用脚抓毛巾？",
+        "answer_start_second": 276,
+        "answer_end_second": 298
+    },
+    {
+        "sample_id": 2767,
+        "video_id": "_pl32NiSCuA",
+        "question": "如何做弓箭步拉脚筋？",
+        "answer_start_second": 307,
+        "answer_end_second": 329
+    },
+    {
+        "sample_id": 2768,
+        "video_id": "_pl32NiSCuA",
+        "question": "如何借用墙壁压脚底舒缓足底筋膜？",
+        "answer_start_second": 355,
+        "answer_end_second": 374
+    },
+    {
+        "sample_id": 2769,
+        "video_id": "6I7pAAK4mpM",
+        "question": "如何按小节穴缓解踝关节损伤？",
+        "answer_start_second": 12,
+        "answer_end_second": 27
+    },
+    {
+        "sample_id": 2770,
+        "video_id": "6I7pAAK4mpM",
+        "question": "如何悬腕舒缓踝关节",
+        "answer_start_second": 52,
+        "answer_end_second": 58
+    },
+    {
+        "sample_id": 2771,
+        "video_id": "6I7pAAK4mpM",
+        "question": "如何旋踝进行踝关节康复？",
+        "answer_start_second": 71,
+        "answer_end_second": 85
+    },
+    {
+        "sample_id": 2772,
+        "video_id": "C6jWUyiYBTY",
+        "question": "如何上下左右活动肩部活动斜方肌？",
+        "answer_start_second": 310,
+        "answer_end_second": 320
+    },
+    {
+        "sample_id": 2773,
+        "video_id": "-ve_-dM3YxM",
+        "question": "如何让身体呈“Y”夹背？",
+        "answer_start_second": 91,
+        "answer_end_second": 100
+    },
+    {
+        "sample_id": 2774,
+        "video_id": "-ve_-dM3YxM",
+        "question": "如何让身体呈“T”夹背？",
+        "answer_start_second": 121,
+        "answer_end_second": 127
+    },
+    {
+        "sample_id": 2775,
+        "video_id": "-ve_-dM3YxM",
+        "question": "如何让身体呈“W”夹背？",
+        "answer_start_second": 138,
+        "answer_end_second": 148
+    },
+    {
+        "sample_id": 2776,
+        "video_id": "-ve_-dM3YxM",
+        "question": "如何让身体呈“L”夹背？",
+        "answer_start_second": 158,
+        "answer_end_second": 175
+    },
+    {
+        "sample_id": 2777,
+        "video_id": "xWR_Aup_n9g",
+        "question": "如何做弹弹手指活动手部？",
+        "answer_start_second": 30,
+        "answer_end_second": 36
+    },
+    {
+        "sample_id": 2778,
+        "video_id": "xWR_Aup_n9g",
+        "question": "如何做甩甩双手活动手部？",
+        "answer_start_second": 50,
+        "answer_end_second": 54
+    },
+    {
+        "sample_id": 2779,
+        "video_id": "xWR_Aup_n9g",
+        "question": "如何做撞撞手指头活动手部？",
+        "answer_start_second": 69,
+        "answer_end_second": 72
+    },
+    {
+        "sample_id": 2780,
+        "video_id": "xWR_Aup_n9g",
+        "question": "如何做撞撞手指间活动手部？",
+        "answer_start_second": 86,
+        "answer_end_second": 90
+    },
+    {
+        "sample_id": 2781,
+        "video_id": "xWR_Aup_n9g",
+        "question": "如何依序伸出手指头活动手部？",
+        "answer_start_second": 103,
+        "answer_end_second": 110
+    },
+    {
+        "sample_id": 2782,
+        "video_id": "xWR_Aup_n9g",
+        "question": "如何双手握拳相撞活动手部？",
+        "answer_start_second": 192,
+        "answer_end_second": 196
+    },
+    {
+        "sample_id": 2783,
+        "video_id": "xWR_Aup_n9g",
+        "question": "如何转换拇指尾指活动手部？",
+        "answer_start_second": 224,
+        "answer_end_second": 238
+    },
+    {
+        "sample_id": 2784,
+        "video_id": "xWR_Aup_n9g",
+        "question": "如何颤动双手？",
+        "answer_start_second": 286,
+        "answer_end_second": 290
+    },
+    {
+        "sample_id": 2785,
+        "video_id": "7Brgt154ylY",
+        "question": "如何用一只手后拉另一只手活络气血？",
+        "answer_start_second": 33,
+        "answer_end_second": 43
+    },
+    {
+        "sample_id": 2786,
+        "video_id": "7Brgt154ylY",
+        "question": "如何一手握拳锤打另一只手活动手部？",
+        "answer_start_second": 54,
+        "answer_end_second": 71
+    },
+    {
+        "sample_id": 2787,
+        "video_id": "7Brgt154ylY",
+        "question": "如何交叉双手活动胳膊手肘促进血液循环？",
+        "answer_start_second": 81,
+        "answer_end_second": 101
+    },
+    {
+        "sample_id": 2788,
+        "video_id": "Uy0x524iDNY",
+        "question": "如何抱肩向前弓背低头拉伸背部？",
+        "answer_start_second": 59,
+        "answer_end_second": 88
+    },
+    {
+        "sample_id": 2789,
+        "video_id": "1aqglI8LekU",
+        "question": "如何在床上背手感受床垫对腰部的支撑筛选合适的床垫？",
+        "answer_start_second": 126,
+        "answer_end_second": 147
+    },
+    {
+        "sample_id": 2790,
+        "video_id": "jmwMP1VL-ps",
+        "question": "如何调整正确的拐杖高度？",
+        "answer_start_second": 6,
+        "answer_end_second": 20
+    },
+    {
+        "sample_id": 2791,
+        "video_id": "jmwMP1VL-ps",
+        "question": "拐杖的起始姿势是什么？",
+        "answer_start_second": 28,
+        "answer_end_second": 35
+    },
+    {
+        "sample_id": 2792,
+        "video_id": "jmwMP1VL-ps",
+        "question": "如何使用拐杖行走三点步态？",
+        "answer_start_second": 45,
+        "answer_end_second": 68
+    },
+    {
+        "sample_id": 2793,
+        "video_id": "jmwMP1VL-ps",
+        "question": "如何使用拐杖行走两点步态？",
+        "answer_start_second": 93,
+        "answer_end_second": 106
+    },
+    {
+        "sample_id": 2794,
+        "video_id": "o8XdjR5Q2Xs",
+        "question": "如何找到鼻孔地板？",
+        "answer_start_second": 16,
+        "answer_end_second": 30
+    },
+    {
+        "sample_id": 2795,
+        "video_id": "o8XdjR5Q2Xs",
+        "question": "如何将棉签深入鼻腔获取粘液？",
+        "answer_start_second": 42,
+        "answer_end_second": 64
+    },
+    {
+        "sample_id": 2796,
+        "video_id": "acuAi9EJmJ4",
+        "question": "如何做猫拱背运动？",
+        "answer_start_second": 15,
+        "answer_end_second": 38
+    },
+    {
+        "sample_id": 2797,
+        "video_id": "AN--hYNG4F4",
+        "question": "如何侧躺起落一条腿锻炼臀中肌？",
+        "answer_start_second": 58,
+        "answer_end_second": 71
+    },
+    {
+        "sample_id": 2798,
+        "video_id": "AN--hYNG4F4",
+        "question": "如何叉腰活动骨盆？",
+        "answer_start_second": 78,
+        "answer_end_second": 87
+    },
+    {
+        "sample_id": 2799,
+        "video_id": "AN--hYNG4F4",
+        "question": "如何做单脚硬举？",
+        "answer_start_second": 96,
+        "answer_end_second": 107
+    },
+    {
+        "sample_id": 2800,
+        "video_id": "AN--hYNG4F4",
+        "question": "如何做单脚深蹲？",
+        "answer_start_second": 122,
+        "answer_end_second": 132
+    },
+    {
+        "sample_id": 2801,
+        "video_id": "AN--hYNG4F4",
+        "question": "如何用一侧手臂支撑身体锻炼臀中肌？",
+        "answer_start_second": 140,
+        "answer_end_second": 151
+    },
+    {
+        "sample_id": 2802,
+        "video_id": "sj8VikvjaGc",
+        "question": "患者如何平躺做肩袖损伤康复训练？",
+        "answer_start_second": 58,
+        "answer_end_second": 78
+    },
+    {
+        "sample_id": 2803,
+        "video_id": "sj8VikvjaGc",
+        "question": "患者如何双手抱头做泵式的肩关节开合？",
+        "answer_start_second": 93,
+        "answer_end_second": 100
+    },
+    {
+        "sample_id": 2804,
+        "video_id": "0c9cvEX-cCQ",
+        "question": "如何用指腹按摩头顶降血压？",
+        "answer_start_second": 41,
+        "answer_end_second": 51
+    },
+    {
+        "sample_id": 2805,
+        "video_id": "0c9cvEX-cCQ",
+        "question": "如何按摩虎口位合谷穴？",
+        "answer_start_second": 96,
+        "answer_end_second": 103
+    },
+    {
+        "sample_id": 2806,
+        "video_id": "0c9cvEX-cCQ",
+        "question": "如何用拇指按摩手腕穴位降血压？",
+        "answer_start_second": 165,
+        "answer_end_second": 172
+    },
+    {
+        "sample_id": 2807,
+        "video_id": "0c9cvEX-cCQ",
+        "question": "如何按摩上臂穴位舒缓高血压？",
+        "answer_start_second": 230,
+        "answer_end_second": 242
+    },
+    {
+        "sample_id": 2808,
+        "video_id": "0c9cvEX-cCQ",
+        "question": "如何按摩指腹穴位舒缓高血压？",
+        "answer_start_second": 314,
+        "answer_end_second": 328
+    },
+    {
+        "sample_id": 2809,
+        "video_id": "0c9cvEX-cCQ",
+        "question": "如何按摩脚背穴位缓冲高血压？",
+        "answer_start_second": 375,
+        "answer_end_second": 383
+    },
+    {
+        "sample_id": 2810,
+        "video_id": "X9o2jSKiX50",
+        "question": "如何做肚子收紧的动作？",
+        "answer_start_second": 4,
+        "answer_end_second": 13
+    },
+    {
+        "sample_id": 2811,
+        "video_id": "OPKdU36kvLc",
+        "question": "如何拍打胳膊穴位强心？",
+        "answer_start_second": 87,
+        "answer_end_second": 91
+    },
+    {
+        "sample_id": 2812,
+        "video_id": "OPKdU36kvLc",
+        "question": "如何做弱强度的原地跑强化心脏",
+        "answer_start_second": 132,
+        "answer_end_second": 143
+    },
+    {
+        "sample_id": 2813,
+        "video_id": "UgcsLihjJSY",
+        "question": "如何做颈部侧向伸展动作？",
+        "answer_start_second": 21,
+        "answer_end_second": 38
+    },
+    {
+        "sample_id": 2814,
+        "video_id": "WaqYTcgacXU",
+        "question": "如何找到前斜角肌？",
+        "answer_start_second": 53,
+        "answer_end_second": 64
+    },
+    {
+        "sample_id": 2815,
+        "video_id": "WaqYTcgacXU",
+        "question": "如何正确地做颈部拉伸？",
+        "answer_start_second": 68,
+        "answer_end_second": 78
+    },
+    {
+        "sample_id": 2816,
+        "video_id": "LjldfLkxfnI",
+        "question": "下蹲时如何扭矩？",
+        "answer_start_second": 284,
+        "answer_end_second": 299
+    },
+    {
+        "sample_id": 2817,
+        "video_id": "LjldfLkxfnI",
+        "question": "如何借助弹力圈做扭矩？",
+        "answer_start_second": 305,
+        "answer_end_second": 310
+    },
+    {
+        "sample_id": 2818,
+        "video_id": "LjldfLkxfnI",
+        "question": "如何借助杠铃片做正确的深蹲姿势？",
+        "answer_start_second": 413,
+        "answer_end_second": 420
+    },
+    {
+        "sample_id": 2819,
+        "video_id": "-hCD7Tspm9I",
+        "question": "如何坐着抬动小腿保养膝盖？",
+        "answer_start_second": 10,
+        "answer_end_second": 22
+    },
+    {
+        "sample_id": 2820,
+        "video_id": "-hCD7Tspm9I",
+        "question": "如何脚踩拉力带并用双手拉住两端活动膝盖？",
+        "answer_start_second": 48,
+        "answer_end_second": 63
+    },
+    {
+        "sample_id": 2821,
+        "video_id": "2ZUSsThcraI",
+        "question": "如何将狼牙棒放至腰部做开胸开肩？",
+        "answer_start_second": 55,
+        "answer_end_second": 74
+    },
+    {
+        "sample_id": 2822,
+        "video_id": "2ZUSsThcraI",
+        "question": "如何将狼牙棒放至颈部舒缓疲惫？",
+        "answer_start_second": 113,
+        "answer_end_second": 123
+    },
+    {
+        "sample_id": 2823,
+        "video_id": "BBRhLDdOcbY",
+        "question": "如何击掌心？",
+        "answer_start_second": 13,
+        "answer_end_second": 17
+    },
+    {
+        "sample_id": 2824,
+        "video_id": "BBRhLDdOcbY",
+        "question": "如何敲掌心？",
+        "answer_start_second": 25,
+        "answer_end_second": 29
+    },
+    {
+        "sample_id": 2825,
+        "video_id": "BBRhLDdOcbY",
+        "question": "如何推大小鱼际？",
+        "answer_start_second": 39,
+        "answer_end_second": 50
+    },
+    {
+        "sample_id": 2826,
+        "video_id": "BBRhLDdOcbY",
+        "question": "如何做指尖对敲？",
+        "answer_start_second": 63,
+        "answer_end_second": 66
+    },
+    {
+        "sample_id": 2827,
+        "video_id": "BBRhLDdOcbY",
+        "question": "如何刮手指？",
+        "answer_start_second": 82,
+        "answer_end_second": 100
+    },
+    {
+        "sample_id": 2828,
+        "video_id": "BBRhLDdOcbY",
+        "question": "如何做轮指练习？",
+        "answer_start_second": 106,
+        "answer_end_second": 113
+    },
+    {
+        "sample_id": 2829,
+        "video_id": "O84p7uNtaBc",
+        "question": "如何做眉心按摩舒缓头痛？",
+        "answer_start_second": 25,
+        "answer_end_second": 31
+    },
+    {
+        "sample_id": 2830,
+        "video_id": "O84p7uNtaBc",
+        "question": "如何按摩前额肌肉舒缓头痛？",
+        "answer_start_second": 50,
+        "answer_end_second": 57
+    },
+    {
+        "sample_id": 2831,
+        "video_id": "O84p7uNtaBc",
+        "question": "如何定位颞肌？",
+        "answer_start_second": 117,
+        "answer_end_second": 137
+    },
+    {
+        "sample_id": 2832,
+        "video_id": "O84p7uNtaBc",
+        "question": "如何深压颞肌舒缓头痛？",
+        "answer_start_second": 139,
+        "answer_end_second": 148
+    },
+    {
+        "sample_id": 2833,
+        "video_id": "JL7x_5JGCj4",
+        "question": "如何弯腰屈膝悬空臀部训练膝盖？",
+        "answer_start_second": 139,
+        "answer_end_second": 154
+    },
+    {
+        "sample_id": 2834,
+        "video_id": "JL7x_5JGCj4",
+        "question": "如何用双手辅助抬臀训练膝盖？",
+        "answer_start_second": 200,
+        "answer_end_second": 215
+    },
+    {
+        "sample_id": 2835,
+        "video_id": "JL7x_5JGCj4",
+        "question": "对于膝盖退化、膝盖发炎、膝盖积水的民众如何做迷你抬臀？",
+        "answer_start_second": 242,
+        "answer_end_second": 283
+    },
+    {
+        "sample_id": 2836,
+        "video_id": "Tayanjy_OFU",
+        "question": "矫正嘴巴开合歪斜问题时双手如何在下巴和脸部一侧操作？",
+        "answer_start_second": 168,
+        "answer_end_second": 187
+    },
+    {
+        "sample_id": 2837,
+        "video_id": "Tayanjy_OFU",
+        "question": "矫正嘴巴开合歪斜问题时双手如何在脸部两侧操作？",
+        "answer_start_second": 204,
+        "answer_end_second": 218
+    },
+    {
+        "sample_id": 2838,
+        "video_id": "Tayanjy_OFU",
+        "question": "如何用两根手指放至下巴辅助训练咀嚼肌肉的肌力？",
+        "answer_start_second": 229,
+        "answer_end_second": 275
+    },
+    {
+        "sample_id": 2839,
+        "video_id": "an-lWEUqFG0",
+        "question": "如何调整正确的椅子高度？",
+        "answer_start_second": 80,
+        "answer_end_second": 88
+    },
+    {
+        "sample_id": 2840,
+        "video_id": "an-lWEUqFG0",
+        "question": "如何给手肘找到合适的支撑位置？",
+        "answer_start_second": 93,
+        "answer_end_second": 104
+    },
+    {
+        "sample_id": 2841,
+        "video_id": "an-lWEUqFG0",
+        "question": "键盘与身体的合适距离是怎么样的？",
+        "answer_start_second": 128,
+        "answer_end_second": 137
+    },
+    {
+        "sample_id": 2842,
+        "video_id": "an-lWEUqFG0",
+        "question": "标准的荧幕高度是怎么样的？",
+        "answer_start_second": 147,
+        "answer_end_second": 156
+    },
+    {
+        "sample_id": 2843,
+        "video_id": "Z31EmalIswM",
+        "question": "如何用一只手拉住另一只手的上臂做肩膀拉伸？",
+        "answer_start_second": 11,
+        "answer_end_second": 23
+    },
+    {
+        "sample_id": 2844,
+        "video_id": "Z31EmalIswM",
+        "question": "如何将一只手放至背部，另一只手拉住手肘做肩膀拉伸？",
+        "answer_start_second": 58,
+        "answer_end_second": 68
+    },
+    {
+        "sample_id": 2845,
+        "video_id": "Z31EmalIswM",
+        "question": "如何用一只手支撑腰部，另一只手拉住手肘活动肩膀？",
+        "answer_start_second": 104,
+        "answer_end_second": 115
+    },
+    {
+        "sample_id": 2846,
+        "video_id": "Z31EmalIswM",
+        "question": "如何用一只手后拉另一只手掌活动肩膀？",
+        "answer_start_second": 154,
+        "answer_end_second": 166
+    },
+    {
+        "sample_id": 2847,
+        "video_id": "Z31EmalIswM",
+        "question": "如何用一只手后拉另一只手背活动肩膀？",
+        "answer_start_second": 206,
+        "answer_end_second": 217
+    },
+    {
+        "sample_id": 2848,
+        "video_id": "AJLiGgmpjAg",
+        "question": "如何侧抬举一条腿训练臀中肌？",
+        "answer_start_second": 48,
+        "answer_end_second": 79
+    },
+    {
+        "sample_id": 2849,
+        "video_id": "AJLiGgmpjAg",
+        "question": "如何用双脚双手支撑床面抬起臀部训练臀大肌？",
+        "answer_start_second": 103,
+        "answer_end_second": 111
+    },
+    {
+        "sample_id": 2850,
+        "video_id": "nOPARbqp7eo",
+        "question": "如何用双手按揉膝盖缓解膝关节痛？",
+        "answer_start_second": 27,
+        "answer_end_second": 56
+    },
+    {
+        "sample_id": 2851,
+        "video_id": "F94picjYyhE",
+        "question": "如何在阻力圈下进行打开腿部、蹲起、移动以及蹲跳动作？",
+        "answer_start_second": 72,
+        "answer_end_second": 140
+    },
+    {
+        "sample_id": 2852,
+        "video_id": "F94picjYyhE",
+        "question": "在家中，如何通过阻力圈来进行腿部及臀部抬放训练？",
+        "answer_start_second": 162,
+        "answer_end_second": 236
+    },
+    {
+        "sample_id": 2853,
+        "video_id": "F94picjYyhE",
+        "question": "如何利用地板依靠臀腿和手的配合动作以训练核心？",
+        "answer_start_second": 250,
+        "answer_end_second": 327
+    },
+    {
+        "sample_id": 2854,
+        "video_id": "gpoNDLk6V-M",
+        "question": "如何进行开门见山动作以养心肺？",
+        "answer_start_second": 154,
+        "answer_end_second": 185
+    },
+    {
+        "sample_id": 2855,
+        "video_id": "gpoNDLk6V-M",
+        "question": "如何进行翻山越岭动作以养心肺？",
+        "answer_start_second": 207,
+        "answer_end_second": 223
+    },
+    {
+        "sample_id": 2856,
+        "video_id": "4npz7iRV3KI",
+        "question": "如何通过正确单脚动作以及下弯动作自测是否为坐骨神经痛？",
+        "answer_start_second": 82,
+        "answer_end_second": 129
+    },
+    {
+        "sample_id": 2857,
+        "video_id": "4npz7iRV3KI",
+        "question": "如何正确下蹲来缓解坐骨神经痛？",
+        "answer_start_second": 169,
+        "answer_end_second": 196
+    },
+    {
+        "sample_id": 2858,
+        "video_id": "IEbgmWjg2rw",
+        "question": "如何跪地后正确摆放双腿双手姿势以伸展髋关节？",
+        "answer_start_second": 4,
+        "answer_end_second": 29
+    },
+    {
+        "sample_id": 2859,
+        "video_id": "s2brf_3Mr1I",
+        "question": "如何通过按摩劳宫穴改善睡眠质量？",
+        "answer_start_second": 28,
+        "answer_end_second": 41
+    },
+    {
+        "sample_id": 2860,
+        "video_id": "s2brf_3Mr1I",
+        "question": "如何通过按摩神门穴改善睡眠质量？",
+        "answer_start_second": 49,
+        "answer_end_second": 62
+    },
+    {
+        "sample_id": 2861,
+        "video_id": "s2brf_3Mr1I",
+        "question": "如何通过按摩神庭穴改善睡眠质量？",
+        "answer_start_second": 73,
+        "answer_end_second": 80
+    },
+    {
+        "sample_id": 2862,
+        "video_id": "s2brf_3Mr1I",
+        "question": "如何通过按摩印堂穴改善睡眠质量？",
+        "answer_start_second": 92,
+        "answer_end_second": 101
+    },
+    {
+        "sample_id": 2863,
+        "video_id": "31y4pLIsXdU",
+        "question": "如何正确跪地，正确摆放双手双腿位置以及上半身姿势以活动脊椎？",
+        "answer_start_second": 1,
+        "answer_end_second": 46
+    },
+    {
+        "sample_id": 2864,
+        "video_id": "UkeCvzxltv4",
+        "question": "如何通过‘督脉十字法’缓解颈椎疲劳？",
+        "answer_start_second": 50,
+        "answer_end_second": 119
+    },
+    {
+        "sample_id": 2865,
+        "video_id": "Rbl-MlJb5lA",
+        "question": "如何在跪姿下放松肩颈？",
+        "answer_start_second": 50,
+        "answer_end_second": 95
+    },
+    {
+        "sample_id": 2866,
+        "video_id": "Rbl-MlJb5lA",
+        "question": "跪姿下，双臂如何运动以放松肩颈？",
+        "answer_start_second": 169,
+        "answer_end_second": 207
+    },
+    {
+        "sample_id": 2867,
+        "video_id": "Rbl-MlJb5lA",
+        "question": "四足跪姿下，如何通过小狗姿势放松肩颈？",
+        "answer_start_second": 215,
+        "answer_end_second": 238
+    },
+    {
+        "sample_id": 2868,
+        "video_id": "Rbl-MlJb5lA",
+        "question": "趴姿下，如何放松肩颈?",
+        "answer_start_second": 308,
+        "answer_end_second": 329
+    },
+    {
+        "sample_id": 2869,
+        "video_id": "Rbl-MlJb5lA",
+        "question": "如何依靠砖放松颈部？",
+        "answer_start_second": 413,
+        "answer_end_second": 435
+    },
+    {
+        "sample_id": 2870,
+        "video_id": "KiuNmCNYzcI",
+        "question": "如何进行脸颊拉伸？",
+        "answer_start_second": 36,
+        "answer_end_second": 68
+    },
+    {
+        "sample_id": 2871,
+        "video_id": "KiuNmCNYzcI",
+        "question": "如何将手握拳按压额头前侧及脸侧颈部？",
+        "answer_start_second": 75,
+        "answer_end_second": 100
+    },
+    {
+        "sample_id": 2872,
+        "video_id": "KiuNmCNYzcI",
+        "question": "如何进行脸颊按压？",
+        "answer_start_second": 199,
+        "answer_end_second": 222
+    },
+    {
+        "sample_id": 2873,
+        "video_id": "KiuNmCNYzcI",
+        "question": "如何抚按前额？",
+        "answer_start_second": 378,
+        "answer_end_second": 400
+    },
+    {
+        "sample_id": 2874,
+        "video_id": "KiuNmCNYzcI",
+        "question": "手如何曲起、如何确定按揉部位以放松眼部？",
+        "answer_start_second": 444,
+        "answer_end_second": 463
+    },
+    {
+        "sample_id": 2875,
+        "video_id": "KiuNmCNYzcI",
+        "question": "如何进行脸部下方拉提？",
+        "answer_start_second": 538,
+        "answer_end_second": 555
+    },
+    {
+        "sample_id": 2876,
+        "video_id": "XHgEZ0VIAVw",
+        "question": "如何在趴着时通过双手及手肘动作以拉伸腰椎？",
+        "answer_start_second": 30,
+        "answer_end_second": 70
+    },
+    {
+        "sample_id": 2877,
+        "video_id": "zWjlzd837bc",
+        "question": "如何进行腹式呼吸？",
+        "answer_start_second": 83,
+        "answer_end_second": 100
+    },
+    {
+        "sample_id": 2878,
+        "video_id": "N52Gyq_diqQ",
+        "question": "如何对婴儿进行心肺复苏术？",
+        "answer_start_second": 252,
+        "answer_end_second": 295
+    },
+    {
+        "sample_id": 2879,
+        "video_id": "N52Gyq_diqQ",
+        "question": "如何对婴儿进行口对口人工呼吸？",
+        "answer_start_second": 296,
+        "answer_end_second": 354
+    },
+    {
+        "sample_id": 2880,
+        "video_id": "xuO5FhXMbCU",
+        "question": "如何借助工具摆放双腿能缓解脚水肿？",
+        "answer_start_second": 190,
+        "answer_end_second": 210
+    },
+    {
+        "sample_id": 2881,
+        "video_id": "xuO5FhXMbCU",
+        "question": "脚水肿胀痛如何缓解？",
+        "answer_start_second": 350,
+        "answer_end_second": 365
+    },
+    {
+        "sample_id": 2882,
+        "video_id": "xuO5FhXMbCU",
+        "question": "如何按摩小腿？",
+        "answer_start_second": 527,
+        "answer_end_second": 573
+    },
+    {
+        "sample_id": 2883,
+        "video_id": "1sqwx8iYwY0",
+        "question": "如何缓解胃疼胃胀？",
+        "answer_start_second": 80,
+        "answer_end_second": 154
+    },
+    {
+        "sample_id": 2884,
+        "video_id": "WdgRBpdnH5w",
+        "question": "如何站姿撑腰缓解腰痛？",
+        "answer_start_second": 77,
+        "answer_end_second": 105
+    },
+    {
+        "sample_id": 2885,
+        "video_id": "WdgRBpdnH5w",
+        "question": "如何通过四字运动缓解腰痛？",
+        "answer_start_second": 130,
+        "answer_end_second": 151
+    },
+    {
+        "sample_id": 2886,
+        "video_id": "WdgRBpdnH5w",
+        "question": "如何通过麦氏运动缓解腰痛？",
+        "answer_start_second": 188,
+        "answer_end_second": 211
+    },
+    {
+        "sample_id": 2887,
+        "video_id": "BRUBChNR0So",
+        "question": "如何按摩小腿？",
+        "answer_start_second": 89,
+        "answer_end_second": 105
+    },
+    {
+        "sample_id": 2888,
+        "video_id": "BRUBChNR0So",
+        "question": "如何通过短足运动治疗扁平足？",
+        "answer_start_second": 183,
+        "answer_end_second": 191
+    },
+    {
+        "sample_id": 2889,
+        "video_id": "onP6yDz4kwc",
+        "question": "如何做推经掌？",
+        "answer_start_second": 94,
+        "answer_end_second": 139
+    },
+    {
+        "sample_id": 2890,
+        "video_id": "1aCX8kS3ZJk",
+        "question": "如何通过双臂和双手的动作来判断是否肌肉损伤？",
+        "answer_start_second": 79,
+        "answer_end_second": 141
+    },
+    {
+        "sample_id": 2891,
+        "video_id": "1aCX8kS3ZJk",
+        "question": "如何通过手指揉捏、控制按揉力度以缓解肌肉损伤？",
+        "answer_start_second": 328,
+        "answer_end_second": 410
+    },
+    {
+        "sample_id": 2892,
+        "video_id": "1aCX8kS3ZJk",
+        "question": "如何激活肌肉？",
+        "answer_start_second": 484,
+        "answer_end_second": 510
+    },
+    {
+        "sample_id": 2893,
+        "video_id": "rAqa2rCU46A",
+        "question": "如何锻炼颈椎？",
+        "answer_start_second": 74,
+        "answer_end_second": 106
+    },
+    {
+        "sample_id": 2894,
+        "video_id": "_e4dtAXhH-o",
+        "question": "侧卧时手臂如何转动泡沫轴以放松肌肉？",
+        "answer_start_second": 57,
+        "answer_end_second": 105
+    },
+    {
+        "sample_id": 2895,
+        "video_id": "_e4dtAXhH-o",
+        "question": "趴着时，双臂如何操作以转动泡沫轴？",
+        "answer_start_second": 109,
+        "answer_end_second": 121
+    },
+    {
+        "sample_id": 2896,
+        "video_id": "aQFfniKnJ6Y",
+        "question": "如何进行扩胸运动？",
+        "answer_start_second": 20,
+        "answer_end_second": 92
+    },
+    {
+        "sample_id": 2897,
+        "video_id": "UY-vAtXbNY8",
+        "question": "如何在弹力带下通过脚部运动以缓解脚尖疼痛？",
+        "answer_start_second": 413,
+        "answer_end_second": 500
+    },
+    {
+        "sample_id": 2898,
+        "video_id": "JeIn6CkqUIw",
+        "question": "如何放松嗓子？",
+        "answer_start_second": 50,
+        "answer_end_second": 70
+    },
+    {
+        "sample_id": 2899,
+        "video_id": "qoHpgp7BhMs",
+        "question": "站立时，如何缓解坐骨神经痛？",
+        "answer_start_second": 140,
+        "answer_end_second": 186
+    },
+    {
+        "sample_id": 2900,
+        "video_id": "qoHpgp7BhMs",
+        "question": "如何确定身体与墙的位置、手臂如何放置、臀部如何动作以缓解坐骨神经痛？",
+        "answer_start_second": 238,
+        "answer_end_second": 290
+    },
+    {
+        "sample_id": 2901,
+        "video_id": "qoHpgp7BhMs",
+        "question": "身体如何倚靠桌子、脚如何站立、如何正确发力以缓解坐骨神经痛？",
+        "answer_start_second": 321,
+        "answer_end_second": 360
+    },
+    {
+        "sample_id": 2902,
+        "video_id": "U1RWlS9xej0",
+        "question": "如何处理伤口？",
+        "answer_start_second": 60,
+        "answer_end_second": 177
+    },
+    {
+        "sample_id": 2903,
+        "video_id": "U1RWlS9xej0",
+        "question": "如何照顾伤口引流管？",
+        "answer_start_second": 189,
+        "answer_end_second": 307
+    },
+    {
+        "sample_id": 2904,
+        "video_id": "U1RWlS9xej0",
+        "question": "如何确定固定的顺序及保证其正确固定？",
+        "answer_start_second": 308,
+        "answer_end_second": 375
+    },
+    {
+        "sample_id": 2905,
+        "video_id": "-pYSiJ181CA",
+        "question": "如何锻炼肱三头肌和胸肌？",
+        "answer_start_second": 69,
+        "answer_end_second": 90
+    },
+    {
+        "sample_id": 2906,
+        "video_id": "-pYSiJ181CA",
+        "question": "如何通过弓箭步锻炼肌肉？",
+        "answer_start_second": 163,
+        "answer_end_second": 178
+    },
+    {
+        "sample_id": 2907,
+        "video_id": "uveAJDgx-4Q",
+        "question": "如何进行绕肩运动？",
+        "answer_start_second": 18,
+        "answer_end_second": 44
+    },
+    {
+        "sample_id": 2908,
+        "video_id": "5_i46FLnu8w",
+        "question": "如何测量拐杖长度？",
+        "answer_start_second": 19,
+        "answer_end_second": 48
+    },
+    {
+        "sample_id": 2909,
+        "video_id": "5_i46FLnu8w",
+        "question": "使用拐杖时如何确定顺序、脚如何发力、如何正确起步？",
+        "answer_start_second": 67,
+        "answer_end_second": 80
+    },
+    {
+        "sample_id": 2910,
+        "video_id": "5_i46FLnu8w",
+        "question": "使用拐杖时如何确定顺序、脚如何动作以行走？",
+        "answer_start_second": 91,
+        "answer_end_second": 118
+    },
+    {
+        "sample_id": 2911,
+        "video_id": "5_i46FLnu8w",
+        "question": "如何确定拐杖位置，如何正确起步？",
+        "answer_start_second": 138,
+        "answer_end_second": 154
+    },
+    {
+        "sample_id": 2912,
+        "video_id": "5_i46FLnu8w",
+        "question": "如何利用拐杖上下楼梯？",
+        "answer_start_second": 218,
+        "answer_end_second": 250
+    },
+    {
+        "sample_id": 2913,
+        "video_id": "IDtSZcCM9eA",
+        "question": "如何确定热水温度、手指如何弯曲以缓解扳机指？",
+        "answer_start_second": 52,
+        "answer_end_second": 91
+    },
+    {
+        "sample_id": 2914,
+        "video_id": "T8Zr6ifmPkI",
+        "question": "在跪下时,上身如何弯曲、双手如何前伸以缓解腰椎管狭窄症？",
+        "answer_start_second": 69,
+        "answer_end_second": 91
+    },
+    {
+        "sample_id": 2915,
+        "video_id": "T8Zr6ifmPkI",
+        "question": "平躺时如何通过腹式呼吸和腰部动作以缓解腰椎管狭窄症？",
+        "answer_start_second": 124,
+        "answer_end_second": 171
+    },
+    {
+        "sample_id": 2916,
+        "video_id": "S20sVAblNlo",
+        "question": "如何做坐姿的斜向转体以防止肌肉流失？",
+        "answer_start_second": 99,
+        "answer_end_second": 125
+    },
+    {
+        "sample_id": 2917,
+        "video_id": "S20sVAblNlo",
+        "question": "站着时，双腿如何站立、双手如何举起并以合适速度旋转以预防肌肉流失？",
+        "answer_start_second": 156,
+        "answer_end_second": 186
+    },
+    {
+        "sample_id": 2918,
+        "video_id": "S20sVAblNlo",
+        "question": "如何做大跨步掌撑转体以预防肌肉流失？",
+        "answer_start_second": 223,
+        "answer_end_second": 253
+    },
+    {
+        "sample_id": 2919,
+        "video_id": "dr0smnNXXpQ",
+        "question": "如何训练肩膀的屈曲及伸直以进行脑中风后复健？",
+        "answer_start_second": 84,
+        "answer_end_second": 98
+    },
+    {
+        "sample_id": 2920,
+        "video_id": "dr0smnNXXpQ",
+        "question": "如何训练肩胛骨向前伸以进行脑中风后手部复健？",
+        "answer_start_second": 110,
+        "answer_end_second": 120
+    },
+    {
+        "sample_id": 2921,
+        "video_id": "dr0smnNXXpQ",
+        "question": "身体如何正确侧躺、手臂如何伸展弯曲动作以复健手肘？",
+        "answer_start_second": 130,
+        "answer_end_second": 144
+    },
+    {
+        "sample_id": 2922,
+        "video_id": "dr0smnNXXpQ",
+        "question": "手臂如何放置、手部如何正确进行左右的翻转以进行前臂复健？",
+        "answer_start_second": 153,
+        "answer_end_second": 164
+    },
+    {
+        "sample_id": 2923,
+        "video_id": "dr0smnNXXpQ",
+        "question": "如何训练肩膀外转动作以进行脑中风复健？",
+        "answer_start_second": 175,
+        "answer_end_second": 185
+    },
+    {
+        "sample_id": 2924,
+        "video_id": "dr0smnNXXpQ",
+        "question": "手如何放置在布上并通过正确前伸动作以复健手臂？",
+        "answer_start_second": 197,
+        "answer_end_second": 208
+    },
+    {
+        "sample_id": 2925,
+        "video_id": "Hegv201aqls",
+        "question": "躺下时，双腿如何摆放、如何正确呼吸以锻炼腰腹？",
+        "answer_start_second": 14,
+        "answer_end_second": 88
+    },
+    {
+        "sample_id": 2926,
+        "video_id": "edJtkBrwbM8",
+        "question": "如何通过拉伸后部以促进睡眠？",
+        "answer_start_second": 74,
+        "answer_end_second": 96
+    },
+    {
+        "sample_id": 2927,
+        "video_id": "edJtkBrwbM8",
+        "question": "抱枕应放在何处，双膝双脚如何动作，手部如何放置以提高睡眠质量？",
+        "answer_start_second": 139,
+        "answer_end_second": 171
+    },
+    {
+        "sample_id": 2928,
+        "video_id": "edJtkBrwbM8",
+        "question": "如何通过倒箭式以拉伸手臂促进睡眠？",
+        "answer_start_second": 225,
+        "answer_end_second": 306
+    },
+    {
+        "sample_id": 2929,
+        "video_id": "8Zsh9JA8p4c",
+        "question": "双手如何抬高，手掌应朝向何处以正确伸展双臂来缓解失眠？",
+        "answer_start_second": 40,
+        "answer_end_second": 69
+    },
+    {
+        "sample_id": 2930,
+        "video_id": "XKUL2fcBS3g",
+        "question": "病人身体应如何摆放，施救者双手应放置在何处，怎样抬高病人头部以检查其呼吸状况？",
+        "answer_start_second": 39,
+        "answer_end_second": 58
+    },
+    {
+        "sample_id": 2931,
+        "video_id": "XKUL2fcBS3g",
+        "question": "双手如何放置，如何准确定位按压点、施救者手臂应如何操作以进行胸外按压？",
+        "answer_start_second": 84,
+        "answer_end_second": 105
+    },
+    {
+        "sample_id": 2932,
+        "video_id": "abmOf3csp0s",
+        "question": "如何进行胸肌拉伸以缓解脖子疼痛？",
+        "answer_start_second": 105,
+        "answer_end_second": 132
+    },
+    {
+        "sample_id": 2933,
+        "video_id": "abmOf3csp0s",
+        "question": "如何正确站立，下巴如何正确进行前后伸缩以缓解脖子痛？",
+        "answer_start_second": 139,
+        "answer_end_second": 155
+    },
+    {
+        "sample_id": 2934,
+        "video_id": "abmOf3csp0s",
+        "question": "如何做趴跪姿的伏地挺身以缓解脖子疼痛？",
+        "answer_start_second": 173,
+        "answer_end_second": 195
+    },
+    {
+        "sample_id": 2935,
+        "video_id": "abmOf3csp0s",
+        "question": "如何放置手臂使二头肌呈放松状态、手指如何确定按压范围并以合适力度进行按摩以放松二头肌？",
+        "answer_start_second": 220,
+        "answer_end_second": 256
+    },
+    {
+        "sample_id": 2936,
+        "video_id": "abmOf3csp0s",
+        "question": "如何确定胸小肌位置，并如何确定按摩顺序通过按摩球进行放松以解决脖子痛？",
+        "answer_start_second": 274,
+        "answer_end_second": 287
+    }
+]
