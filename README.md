@@ -4,10 +4,10 @@
 </div>
 
 ## ✨ Overall Framework
-![framework](pics/framework.pdf)
+![framework](pics/framework.png)
 
 ## 💡 Interactive and Learning Modules
-![framework](pics/method.pdf)
+![framework](pics/method.png)
 
 - Chatting for Intention Awareness
 
