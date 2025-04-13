@@ -4,10 +4,10 @@
 </div>
 
 ## ✨ Overall Framework
-![framework](pics/framework.png)
+![framework](pics/framework.png){:height="50%" width="50%"}
 
 ## 💡 Interactive and Learning Modules
-![framework](pics/method.png)
+![framework](pics/method.png){:height="50%" width="50%"}
 
 - Chatting for Intention Awareness
 
