@@ -1,6 +1,7 @@
 <div align="center">
   <h2>Ask2Loc: Learning to Locate Instructional Visual Answers<br>by Asking Questions</h2>
-  <p>🧠 Instructional Visual Answer Localization | 🤖 Large and Pre-trained Language Models | 📊 Human Computer Interactions  </p>
+  <p>📹 Instructional Visual Answer Localization | 🤖 Large and Pre-trained Language Models </p>
+  <p> 🙋 Human Computer Interactions  </p>
 </div>
 
 ## ✨ Overall Framework
