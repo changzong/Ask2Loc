@@ -20,7 +20,9 @@ We propose **Ask2Loc**, an interactive visual answer localization framework that
 - **Learning for Answer Location Detection:** We formulate the task of identifying whether each video segment falls within the answer span as a classification problem, where visual features are projected into the same space as textual features, fused with contextual encodings via a PLM, and jointly optimized through PLM-based fine-tuning using ground-truth and predicted location labels.
 
 ## 📕 Dataset
-- For each sample (an individual video segment), the following data fields are included:
+- We reconstruct three instructional visual answer localization datasets for our In-VAL task. These datasets are named as In-MedVidQA (medical in English), In-VehicleVQA (vehicle in English), and In-CMIVQA (medical in Chinese), across multiple domains and multilingual scenarios.
+
+- For each sample (an individual video segment) in these datsets, the following data fields are included:
   - Input Question
   - Answer Span (start time and duration)
   - Within Answer Label (0 or 1)
