@@ -50,18 +50,19 @@ We propose **Ask2Loc**, an interactive visual answer localization framework that
 1. Run evaluation with ```python evaluate.py```
 
 2. Important Results (mIoU):
-| Framework      |      Method     |  In-MedVidQA  |  In-VehicleVQA  |  In-CMIVQA  |
-| :---           |      :----:     |     :----:    |      :----:     |    :----:   |
-| End-to-End     |   RandomGuess   |      5.96     |       4.96      |     4.21    |
-|                |     LLM-Gen     |      9.42     |      10.17      |     8.57    |
-|                |    Video-LLM    |      12.90    |      14.65      |     9.45    |
-|                |    PLM-Fusion   |      29.36    |      38.26      |     22.70   |
-|                |   PLM-Context   |      35.46    |      36.88      |     20.26   |
-|                |    PLM-Prompt   |      37.08    |      40.37      |     27.52   |
-| Two-Stage      |  Retrieval-Loc  |      28.52    |      33.72      |     16.59   |
-|                |    Expand-Loc   |      29.47    |      32.14      |     15.81   |
-|                |   Describe-Loc  |      31.02    |      26.75      |     20.76   |
-| Interactive    |  Ask2Loc (Ours) |      43.22    |      55.28      |     31.37   |
+
+| Framework      |      Method      |  In-MedVidQA  |  In-VehicleVQA  |  In-CMIVQA  |
+| :---           |      :----:      |     :----:    |      :----:     |    :----:   |
+| End-to-End     |   RandomGuess    |      5.96     |       4.96      |     4.21    |
+|                |     LLM-Gen      |      9.42     |      10.17      |     8.57    |
+|                |    Video-LLM     |      12.90    |      14.65      |     9.45    |
+|                |    PLM-Fusion    |      29.36    |      38.26      |     22.70   |
+|                |   PLM-Context    |      35.46    |      36.88      |     20.26   |
+|                |    PLM-Prompt    |      37.08    |      40.37      |     27.52   |
+| Two-Stage      |  Retrieval-Loc   |      28.52    |      33.72      |     16.59   |
+|                |    Expand-Loc    |      29.47    |      32.14      |     15.81   |
+|                |   Describe-Loc   |      31.02    |      26.75      |     20.76   |
+| **Interactive**|**Ask2Loc (Ours)**|    **43.22**  |    **55.28**    |   **31.37** |
 
 ## 📂 Checkpoints
 Please download from our [GoogleDrive](https://anonymous.4open.science/r/Ask2Loc-480F) (update later)
