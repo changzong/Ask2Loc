@@ -71,4 +71,4 @@ We propose **Ask2Loc**, an interactive visual answer localization framework that
 Please download from our [GoogleDrive](https://anonymous.4open.science/r/Ask2Loc-480F) (update later)
 
 ## 🕹️ Demo
-<img src="./pics/demo.gif" width="400" height="300" />
+<img src="./pics/demo.gif" width="600" height="400" />
